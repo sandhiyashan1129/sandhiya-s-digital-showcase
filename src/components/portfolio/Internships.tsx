@@ -7,27 +7,27 @@ import i3 from "@/assets/internship-3.jpg";
 
 const internships = [
   {
-    company: "Crescent Infotech",
-    role: "Data Analyst Intern",
-    duration: "15/12/2023 – 30/01/2024",
+    company: "TechNova Solutions",
+    role: "MERN Stack Developer Intern",
+    duration: "Jun 2024 – Aug 2024",
     description:
-      "Worked on data analysis tasks and gained practical experience in handling datasets. Learned basic data processing and analytical techniques.",
+      "Built REST APIs and React dashboards for a SaaS analytics product. Improved page load by 35% via code-splitting and caching.",
     image: i1,
   },
   {
-    company: "TIDEL Park",
-    role: "Web Development Intern",
-    duration: "23/06/2025 – 07/07/2025",
+    company: "BrightCode Labs",
+    role: "Frontend Developer Intern",
+    duration: "Jan 2024 – Apr 2024",
     description:
-      "Developed web-based applications and improved frontend skills. Gained experience in building responsive web interfaces.",
+      "Designed and implemented responsive UI components in React + Tailwind. Collaborated with designers on a component library.",
     image: i2,
   },
   {
-    company: "Maxpro Experts",
-    role: "Java Intern",
-    duration: "23/12/2024 – 31/12/2024",
+    company: "InnoWeb Studio",
+    role: "Web Development Intern",
+    duration: "May 2023 – Jul 2023",
     description:
-      "Learned Java programming concepts and basic application development. Worked on simple Java-based tasks and problem solving.",
+      "Developed a client-facing portfolio CMS using Node.js & MongoDB. Implemented JWT auth and role-based access control.",
     image: i3,
   },
 ];
